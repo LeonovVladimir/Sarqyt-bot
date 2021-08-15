@@ -1,0 +1,4 @@
+src/download/*
+DBconfig.py
+config.py
+settings.json
